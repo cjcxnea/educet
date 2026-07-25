@@ -597,7 +597,7 @@
     },
     {
       "id": 1036,
-      "mainTitle": "2024年上半年",
+      "mainTitle": "2026年上半年",
       "subject": "CET4",
       "uname": "张琬钰",
       "idCardl": "37060220051113132X",
@@ -608,6 +608,23 @@
       "writtenListening": 121,
       "writtenReading": 162,
       "writtenWriting": 155,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1037,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "多佳怡",
+      "idCardl": "62060220051113192X",
+      "school": "江西财经大学",
+      "scoreRoport": 0,
+      "writtenExamNum": 360032261106110,
+      "writtenTotal": 443,
+      "writtenListening": 161,
+      "writtenReading": 163,
+      "writtenWriting": 119,
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
