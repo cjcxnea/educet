@@ -368,7 +368,7 @@
 }
 @media (max-width: 768px) {
   .page-main .main-container .main-form .main-form-history {
-    margin: 3vmin;
+    margin: 3vmin 3vmin 6vmin;
     padding: 3vmin;
     border-radius: 1.5vmin;
   }
@@ -390,7 +390,6 @@
     line-height: 9vmin;
     color: #fff;
     text-align: center;
-    margin-bottom: 6vmin;
   }
 }
 @media (min-width: 769px) {

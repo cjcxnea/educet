@@ -1,1 +1,1 @@
-# dducet
+# educet
