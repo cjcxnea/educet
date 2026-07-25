@@ -594,6 +594,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1036,
+      "mainTitle": "2024年上半年",
+      "subject": "CET4",
+      "uname": "张琬钰",
+      "idCardl": "37060220051113132X",
+      "school": "齐鲁工业大学菏泽校区",
+      "scoreRoport": 261121037000083,
+      "writtenExamNum": 372831261101203,
+      "writtenTotal": 438,
+      "writtenListening": 121,
+      "writtenReading": 162,
+      "writtenWriting": 155,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
