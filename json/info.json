@@ -645,6 +645,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1039,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "郭斌铖",
+      "idCardl": "350602200511131418",
+      "school": "深圳城市职业学院",
+      "scoreRoport": 261144074061372 ,
+      "writtenExamNum": 440740261104522,
+      "writtenTotal": 464,
+      "writtenListening": 155,
+      "writtenReading": 171,
+      "writtenWriting": 138,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
