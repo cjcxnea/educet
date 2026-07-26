@@ -49,11 +49,6 @@ window.addEventListener('DOMContentLoaded', function() {
     schoolValueEl.textContent = school;
   }
 
-  const scoreReportValueEl = document.querySelector('.score-score-report-value');
-  if (scoreReportValueEl) {
-    scoreReportValueEl.textContent = scoreRoport;
-  }
-
   // 渲染笔试成绩
   const writtenExamNumEl = document.querySelector('.written-exam-num-value');
   if (writtenExamNumEl) {
@@ -98,19 +93,26 @@ window.addEventListener('DOMContentLoaded', function() {
   }
 
   // 根据 scoreRoport 值控制显示/隐藏
-  // scoreRoport 为 0 时：隐藏"成绩报告单编号"所在 li，显示"不"字
-  // scoreRoport 不为 0 时：隐藏"不"字，显示"成绩报告单编号"所在 li
+  // scoreRoport 不为 0 时：将值渲染到 score-score-report-value，隐藏"不"字（is-score-report）
+  // scoreRoport 为 0 时：隐藏成绩报告单编号所在 li，移除"不"字的 display 属性使其正常显示
   const scoreRoportNum = Number(scoreRoport);
-  const scoreReportLi = document.querySelector('.score-score-report-value');
+  const scoreReportValueEl = document.querySelector('.score-score-report-value');
   const isScoreReportEl = document.querySelector('.is-score-report');
 
   if (scoreRoportNum === 0) {
-    // scoreRoport 为 0：隐藏成绩报告单编号所在 li
-    if (scoreReportLi) {
-      scoreReportLi.closest('li').style.display = 'none';
+    // scoreRoport 为 0：隐藏成绩报告单编号所在 li，移除"不"字的 display 属性
+    if (scoreReportValueEl) {
+      scoreReportValueEl.closest('li').style.display = 'none';
+    }
+    if (isScoreReportEl) {
+      // 移除 display 属性，让"不"字正常显示
+      isScoreReportEl.style.removeProperty('display');
     }
   } else {
-    // scoreRoport 不为 0：隐藏"不"字
+    // scoreRoport 不为 0：将值渲染到 score-score-report-value 标签，隐藏"不"字
+    if (scoreReportValueEl) {
+      scoreReportValueEl.textContent = scoreRoport;
+    }
     if (isScoreReportEl) {
       isScoreReportEl.style.display = 'none';
     }

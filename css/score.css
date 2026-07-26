@@ -111,9 +111,6 @@
     color: #a3a3a3;
     text-align: justify;
   }
-  .page-main .main-notice .is-score-report {
-    display: none;
-  }
   .page-main .main-btn {
     display: flex;
     justify-content: center;
@@ -237,9 +234,6 @@
     border-radius: 0 0.125rem 0.125rem 0;
     font-size: 0.875rem;
     line-height: 1.6;
-  }
-  .page-main .main-notice .is-score-report {
-    display: none;
   }
   .page-main .main-btn {
     margin: 1.875rem 0 0 0;
