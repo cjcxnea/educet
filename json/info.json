@@ -628,6 +628,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1038,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "秦铭雪",
+      "idCardl": "500602200511131505",
+      "school": "山东第一医科大学",
+      "scoreRoport": 0,
+      "writtenExamNum": 370380261101102,
+      "writtenTotal": 432,
+      "writtenListening": 140,
+      "writtenReading": 151,
+      "writtenWriting": 141,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
