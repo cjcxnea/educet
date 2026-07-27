@@ -662,6 +662,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
-    }
+    },
+    {
+      "id": 1040,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "陈宇天",
+      "idCardl": "410402200211108015",
+      "school": "湖北医药学院",
+      "scoreRoport": 0,
+      "writtenExamNum": 420750261212821,
+      "writtenTotal": 453,
+      "writtenListening": 117,
+      "writtenReading": 195,
+      "writtenWriting": 141,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
+    },
   ]
 }
