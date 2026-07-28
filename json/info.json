@@ -679,6 +679,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1041,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "刘嘉瑜",
+      "idCardl": "350402200211108926",
+      "school": "楚雄师范学院",
+      "scoreRoport": 261253017000349,
+      "writtenExamNum": 530170251112606,
+      "writtenTotal": 401,
+      "writtenListening": 108,
+      "writtenReading": 156,
+      "writtenWriting": 137,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
