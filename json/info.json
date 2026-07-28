@@ -696,6 +696,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1042,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "张月雅",
+      "idCardl": "120402200211108064",
+      "school": "天津仁爱学院",
+      "scoreRoport": 261151260604280,
+      "writtenExamNum": 120650261101726,
+      "writtenTotal": 438,
+      "writtenListening": 123,
+      "writtenReading": 168,
+      "writtenWriting": 147,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
