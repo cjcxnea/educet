@@ -256,7 +256,7 @@
 .page-main .main-container .main-form .dt-form-item-input-extra {
   position: absolute;
   left: 35.5rem;
-  top: 8.25rem;
+  top: 7.875rem;
 }
 .page-main .main-container .main-form .dt-form-item-input-extra .dt-input-extra-container {
   position: relative;
@@ -269,7 +269,7 @@
 .page-main .main-container .main-form .dt-form-item-input-extra .dt-input-extra-container .extra-top {
   position: absolute;
   left: -1.875rem;
-  top: 1.5rem;
+  top: 1.875rem;
   width: 0;
   height: 0;
   border-width: 0.9375rem;
@@ -280,7 +280,7 @@
 .page-main .main-container .main-form .dt-form-item-input-extra .dt-input-extra-container .extra-bot {
   position: absolute;
   left: -1.75rem;
-  top: 1.5rem;
+  top: 1.875rem;
   width: 0;
   height: 0;
   border-width: 0.9375rem;
