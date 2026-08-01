@@ -261,7 +261,6 @@
 .page-main .main-container .main-form .dt-form-item-input-extra .dt-input-extra-container {
   position: relative;
   width: 14.0625rem;
-  height: 5rem;
   background: #f9fdfe;
   padding: 0.625rem;
   border: 0.0625rem solid #beceeb;
@@ -306,12 +305,12 @@
 }
 .page-main .main-container .main-form .dt-form-item-input-extra .dt-input-extra-container .extra-content .extra-circle-l .extra-circle-s {
   position: absolute;
-  left: 1px;
-  top: 1px;
-  width: 0.5rem;
-  height: 0.5rem;
+  left: 0.125rem;
+  top: 0.125rem;
+  width: 0.375rem;
+  height: 0.375rem;
   background: #5fb5d6;
-  border-radius: 0.5rem;
+  border-radius: 0.375rem;
 }
 .page-main .main-container .main-form .dt-form-item-input-extra .dt-input-extra-container .extra-content .extra-text {
   padding: 0 0 0 1.25rem;
