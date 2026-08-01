@@ -713,6 +713,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1043,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "刘洋",
+      "idCardl": "130402200211108229",
+      "school": "天津科技大学",
+      "scoreRoport": 261141201002856,
+      "writtenExamNum": 330591241103215,
+      "writtenTotal": 429,
+      "writtenListening": 109,
+      "writtenReading": 174,
+      "writtenWriting": 146,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
