@@ -730,6 +730,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1044,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "范佳欢",
+      "idCardl": "350402200111108526",
+      "school": "闽南师范大学",
+      "scoreRoport": 0,
+      "writtenExamNum": 356010261210722,
+      "writtenTotal": 452,
+      "writtenListening": 120,
+      "writtenReading": 196,
+      "writtenWriting": 136,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
