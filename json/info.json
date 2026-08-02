@@ -747,6 +747,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1045,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "谢晓玉",
+      "idCardl": "360402200111138022",
+      "school": "江西应用科技学院",
+      "scoreRoport": 261136026000223,
+      "writtenExamNum": 360011241100202,
+      "writtenTotal": 439,
+      "writtenListening": 136,
+      "writtenReading": 160,
+      "writtenWriting": 143,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
