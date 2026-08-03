@@ -764,6 +764,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1046,
+      "mainTitle": "2019年下半年",
+      "subject": "CET6",
+      "uname": "李俊霞",
+      "idCardl": "530402200111138221",
+      "school": "江苏大学",
+      "scoreRoport": 192232132004443,
+      "writtenExamNum": 321321192216326,
+      "writtenTotal": 434,
+      "writtenListening": 136,
+      "writtenReading": 176,
+      "writtenWriting": 122,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "2月19日6时至2月22日17时"
     }
   ]
 }
