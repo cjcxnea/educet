@@ -48,7 +48,7 @@ form.addEventListener('submit', function(e) {
   const matchedUser = userInfoData.find(user => {
     // 比对姓名和证件号码/准考证号
     const nameMatch = user.uname === nameValue;
-    const idMatch = user.idCardl === idCardValue || String(user.writtenExamNum) === idCardValue;
+    const idMatch = user.idCard === idCardValue || String(user.writtenExamNum) === idCardValue;
     return nameMatch && idMatch;
   });
 
@@ -76,9 +76,9 @@ form.addEventListener('submit', function(e) {
   sessionStorage.setItem('subject', subjectSelect.options[subjectSelect.selectedIndex].text);
   sessionStorage.setItem('subjectValue', subjectValue);
   sessionStorage.setItem('uname', matchedUser.uname);
-  sessionStorage.setItem('idCardl', matchedUser.idCardl);
+  sessionStorage.setItem('idCard', matchedUser.idCard);
   sessionStorage.setItem('school', matchedUser.school);
-  sessionStorage.setItem('scoreRoport', matchedUser.scoreRoport);
+  sessionStorage.setItem('scoreReport', matchedUser.scoreReport);
   sessionStorage.setItem('writtenExamNum', matchedUser.writtenExamNum);
   sessionStorage.setItem('writtenTotal', matchedUser.writtenTotal);
   sessionStorage.setItem('writtenListening', matchedUser.writtenListening);

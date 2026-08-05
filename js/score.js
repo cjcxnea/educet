@@ -5,9 +5,9 @@ window.addEventListener('DOMContentLoaded', function() {
   // 从 sessionStorage 获取数据
   const subject = sessionStorage.getItem('subject');
   const uname = sessionStorage.getItem('uname');
-  const idCardl = sessionStorage.getItem('idCardl');
+  const idCard = sessionStorage.getItem('idCard');
   const school = sessionStorage.getItem('school');
-  const scoreRoport = sessionStorage.getItem('scoreRoport');
+  const scoreReport = sessionStorage.getItem('scoreReport');
   const writtenExamNum = sessionStorage.getItem('writtenExamNum');
   const writtenTotal = sessionStorage.getItem('writtenTotal');
   const writtenListening = sessionStorage.getItem('writtenListening');
@@ -40,7 +40,7 @@ window.addEventListener('DOMContentLoaded', function() {
   const idCardValueEl = document.querySelector('.score-id-card-value');
   if (idCardValueEl) {
     // 身份证号脱敏：前2位和后3位保留，中间13位用 * 代替
-    const maskedIdCard = idCardl.substring(0, 2) + '*'.repeat(13) + idCardl.substring(idCardl.length - 3);
+    const maskedIdCard = idCard.substring(0, 2) + '*'.repeat(13) + idCard.substring(idCard.length - 3);
     idCardValueEl.textContent = maskedIdCard;
   }
 
@@ -92,15 +92,15 @@ window.addEventListener('DOMContentLoaded', function() {
     noticeTimeEl.textContent = noticeTime;
   }
 
-  // 根据 scoreRoport 值控制显示/隐藏
-  // scoreRoport 不为 0 时：将值渲染到 score-score-report-value，隐藏"不"字（is-score-report）
-  // scoreRoport 为 0 时：隐藏成绩报告单编号所在 li，移除"不"字的 display 属性使其正常显示
-  const scoreRoportNum = Number(scoreRoport);
+  // 根据 scoreReport 值控制显示/隐藏
+  // scoreReport 不为 0 时：将值渲染到 score-score-report-value，隐藏"不"字（is-score-report）
+  // scoreReport 为 0 时：隐藏成绩报告单编号所在 li，移除"不"字的 display 属性使其正常显示
+  const scoreReportNum = Number(scoreReport);
   const scoreReportValueEl = document.querySelector('.score-score-report-value');
   const isScoreReportEl = document.querySelector('.is-score-report');
 
-  if (scoreRoportNum === 0) {
-    // scoreRoport 为 0：隐藏成绩报告单编号所在 li，移除"不"字的 display 属性
+  if (scoreReportNum === 0) {
+    // scoreReport 为 0：隐藏成绩报告单编号所在 li，移除"不"字的 display 属性
     if (scoreReportValueEl) {
       scoreReportValueEl.closest('li').style.display = 'none';
     }
@@ -109,9 +109,9 @@ window.addEventListener('DOMContentLoaded', function() {
       isScoreReportEl.style.removeProperty('display');
     }
   } else {
-    // scoreRoport 不为 0：将值渲染到 score-score-report-value 标签，隐藏"不"字
+    // scoreReport 不为 0：将值渲染到 score-score-report-value 标签，隐藏"不"字
     if (scoreReportValueEl) {
-      scoreReportValueEl.textContent = scoreRoport;
+      scoreReportValueEl.textContent = scoreReport;
     }
     if (isScoreReportEl) {
       isScoreReportEl.style.display = 'none';
