@@ -781,23 +781,6 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "2月19日6时至2月22日17时"
-    },
-    {
-      "id": 1047,
-      "mainTitle": "2026年上半年",
-      "subject": "CET4",
-      "uname": "黄韫丽",
-      "idCard": "430402200111138029",
-      "school": "邵阳职业技术学院",
-      "scoreReport": 0,
-      "writtenExamNum": 430331252120125,
-      "writtenTotal": 434,
-      "writtenListening": 136,
-      "writtenReading": 176,
-      "writtenWriting": 122,
-      "oralExamNum": "--",
-      "oralLevel": "--",
-      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
