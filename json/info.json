@@ -798,6 +798,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1048,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "杨婧溪",
+      "idCard": "220402200111138329",
+      "school": "长春工业大学",
+      "scoreReport": 0,
+      "writtenExamNum": 2200054261107319,
+      "writtenTotal": 441,
+      "writtenListening": 130,
+      "writtenReading": 174,
+      "writtenWriting": 137,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
