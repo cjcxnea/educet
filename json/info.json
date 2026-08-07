@@ -849,6 +849,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1051,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "吴熙慧",
+      "idCard": "360402200211138924",
+      "school": "淮南师范学院",
+      "scoreReport": 261234020002369,
+      "writtenExamNum": 340200262107526,
+      "writtenTotal": 436,
+      "writtenListening": 125,
+      "writtenReading": 172,
+      "writtenWriting": 139,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
