@@ -883,6 +883,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1053,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "王欣冉",
+      "idCard": "150430200509081886",
+      "school": "长春建筑学院",
+      "scoreReport": 261122051001782,
+      "writtenExamNum": 220510252108013,
+      "writtenTotal": 538,
+      "writtenListening": 148,
+      "writtenReading": 192,
+      "writtenWriting": 198,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
