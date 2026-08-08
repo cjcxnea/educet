@@ -900,6 +900,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1054,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "林丞",
+      "idCard": "350430200509081018",
+      "school": "福建商学院",
+      "scoreReport": 261212088001808,
+      "writtenExamNum": 351131261106423,
+      "writtenTotal": 439,
+      "writtenListening": 153,
+      "writtenReading": 171,
+      "writtenWriting": 115,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
