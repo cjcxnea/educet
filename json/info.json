@@ -866,6 +866,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1052,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "陈喻宸",
+      "idCard": "500402200211138145",
+      "school": "广西中医药大学赛恩斯新医药学院",
+      "scoreReport": 261234020002062,
+      "writtenExamNum": 451230261110126,
+      "writtenTotal": 462,
+      "writtenListening": 170,
+      "writtenReading": 155,
+      "writtenWriting": 137,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
