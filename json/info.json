@@ -917,6 +917,40 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1055,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "王悦任",
+      "idCard": "230430200509081016",
+      "school": "宝鸡文理学院院",
+      "scoreReport": 261212088201808,
+      "writtenExamNum": 610421261114125,
+      "writtenTotal": 447,
+      "writtenListening": 110,
+      "writtenReading": 168,
+      "writtenWriting": 169,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1056,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "朱宇川",
+      "idCard": "150430200509081911",
+      "school": "甘肃农业大学",
+      "scoreReport": 2611627330000411,
+      "writtenExamNum": 627330252124502,
+      "writtenTotal": 495,
+      "writtenListening": 186,
+      "writtenReading": 133,
+      "writtenWriting": 176,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
