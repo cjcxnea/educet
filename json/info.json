@@ -951,6 +951,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
+      "id": 1057,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "田佳瑶",
+      "idCard": "610430200509081030",
+      "school": "西安财经大学行知学院",
+      "scoreReport": 2611627330000411,
+      "writtenExamNum": 611340252124502,
+      "writtenTotal": 436,
+      "writtenListening": 136,
+      "writtenReading": 172,
+      "writtenWriting": 128,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
     }
   ]
 }
