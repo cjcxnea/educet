@@ -1019,6 +1019,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月14日6时至8月17日17时"
+    },
+    {
+      "id": 1061,
+      "mainTitle": "2026年上半年",
+      "subject": "CET4",
+      "uname": "曹译方",
+      "idCard": "321523200606166023",
+      "school": "江苏财经职业技术学院",
+      "scoreReport": 261241009081431,
+      "writtenExamNum": 328060261105110,
+      "writtenTotal": 467,
+      "writtenListening": 140,
+      "writtenReading": 178,
+      "writtenWriting": 149,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月14日6时至8月17日17时"
     }
   ]
 }
