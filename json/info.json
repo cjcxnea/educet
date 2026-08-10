@@ -985,6 +985,40 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月14日6时至8月17日17时"
+    },
+    {
+      "id": 1059,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "唐宝义",
+      "idCard": "450430200509081526",
+      "school": "中原工学院",
+      "scoreReport": 261241009001433,
+      "writtenExamNum": 410092252112514,
+      "writtenTotal": 434,
+      "writtenListening": 141,
+      "writtenReading": 157,
+      "writtenWriting": 136,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月14日6时至8月17日17时"
+    },
+    {
+      "id": 1060,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "朱杨阳",
+      "idCard": "341523200606166724",
+      "school": "淮北师范大学",
+      "scoreReport": 261241009001431,
+      "writtenExamNum": 340101252101107,
+      "writtenTotal": 426,
+      "writtenListening": 140,
+      "writtenReading": 148,
+      "writtenWriting": 138,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月14日6时至8月17日17时"
     }
   ]
 }
