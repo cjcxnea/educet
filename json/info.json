@@ -1070,6 +1070,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月14日6时至8月17日17时"
+    },
+    {
+      "id": 1064,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "胡伊枫",
+      "idCard": "341523200606166811",
+      "school": "安徽医科大学",
+      "scoreReport": 261234006008566,
+      "writtenExamNum": 360063261200824,
+      "writtenTotal": 570,
+      "writtenListening": 178,
+      "writtenReading": 248,
+      "writtenWriting": 144,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月14日6时至8月17日17时"
     }
   ]
 }
