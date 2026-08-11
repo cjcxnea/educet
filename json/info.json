@@ -1087,6 +1087,23 @@
       "oralExamNum": "--",
       "oralLevel": "--",
       "noticeTime": "8月14日6时至8月17日17时"
+    },
+    {
+      "id": 1065,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "赵培涵",
+      "idCard": "410423200102224929",
+      "school": "南宁师范大学",
+      "scoreReport": 261234006008566,
+      "writtenExamNum": 451230261110110,
+      "writtenTotal": 420,
+      "writtenListening": 122,
+      "writtenReading": 179,
+      "writtenWriting": 119,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月14日6时至8月17日17时"
     }
   ]
 }
